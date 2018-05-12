@@ -1,0 +1,49 @@
+_repo: Correspondence--amp--Conversations-of-Alexis-de-Tocqueville-with-Nassau-William-Senior-from-1__13333
+_version: 0.1.0
+alternative_title: Correspondence and Conversations of Alexis de Tocqueville with
+  Nassau William Senior from 1834 to 1859, Volume 2
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Tocqueville, Alexis de
+    aliases:
+    - Tocqueville, Alexis Charles Henri Maurice Clerel de
+    - Tocqueville, Alexis Charles Henri Maurice Clérel de
+    - De Tocqueville, Alexis
+    - Toqueville, Alexis de
+    birthdate: 1805
+    deathdate: 1859
+    gutenberg_agent_id: '424'
+    url: http://www.gutenberg.org/2009/agents/424
+    wikipedia: http://en.wikipedia.org/wiki/Alexis_de_Tocqueville
+  - agent_name: Senior, Nassau William
+    alias: Senior, Nassau W.
+    birthdate: 1790
+    deathdate: 1864
+    gutenberg_agent_id: '39821'
+    url: http://www.gutenberg.org/2009/agents/39821
+  editor:
+    agent_name: Simpson, M. C. M. (Mary Charlotte Mair)
+    alias: Simpson, Mary Charlotte Mair Senior
+    gutenberg_agent_id: '39822'
+    url: http://www.gutenberg.org/2009/agents/39822
+description: ''
+gutenberg_issued: '2004-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Second Republic, 1848-1852'
+- !lcsh 'Tocqueville, Alexis de, 1805-1859'
+- !lcsh 'Tocqueville, Alexis de, 1805-1859 -- Correspondence'
+- !lcsh 'Senior, Nassau William, 1790-1864 -- Correspondence'
+title: Correspondence & Conversations of Alexis de Tocqueville with Nassau William
+  Senior from 1834 to 1859, Volume 2
+url: http://www.gutenberg.org/ebooks/13333
